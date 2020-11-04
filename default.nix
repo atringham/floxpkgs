@@ -1,4 +1,3 @@
-import <flox/lib> {
-  name = "atringham";
+import <flox/channel> {
   topdir = ./.;
 }
